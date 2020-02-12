@@ -1,12 +1,12 @@
 import requests
 import json
 
-APP_NAME = 'SRBetfairApp'
-APP_KEY = 'AYW5U5tNdmrLsvA4'
-APP_KEY_DELAY = 'd1vcqiZ6Woq08sfC'
+APP_NAME = ''
+APP_KEY = ''
+APP_KEY_DELAY = ''
 
 #LOGIN
-def bf_login(username='sruffinoit', password='na8a880minkia'):
+def bf_login(username='', password=''):
     
     header = { 'X-Application' : APP_KEY, 'Accept' : 'application/json', 'Content-Type': 'application/x-www-form-urlencoded' }
 
