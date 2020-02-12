@@ -6,7 +6,7 @@ Created on 26/ago/2015
 import utils
 
 username='sruffinoit'
-password='na8a880minkia'
+password=''
 
 if __name__ == '__main__':
     
